@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "made by OEOTYAN",
+        "name": "trapdoor CUI V1.2",
+        "uuid": "3b8f9bf5-ba7c-4392-8d2c-ee08d1b38c6b",
+        "version": [
+            1,
+            2,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "made by OEOTYAN",
+            "type": "resources",
+            "uuid": "b7a212ff-1312-49bc-b1be-ba8b9cd28526",
+            "version": [
+                1,
+                2,
+                0
+            ]
+        }
+    ]
+}
