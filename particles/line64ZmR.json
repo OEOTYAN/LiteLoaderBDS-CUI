@@ -4,7 +4,7 @@
         "description": {
             "identifier": "trapdoor:line64ZmR",
             "basic_render_parameters": {
-                "material": "particles_blend",
+                "material": "particles_front",
                 "texture": "particles/base"
             }
         },
