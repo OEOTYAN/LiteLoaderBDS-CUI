@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "particle_effect": {
         "description": {
-            "identifier": "worldedit:pointB",
+            "identifier": "trapdoor:pointB",
             "basic_render_parameters": {
                 "material": "particles_front",
                 "texture": "particles/point"
