@@ -4,7 +4,7 @@
         "description": {
             "identifier": "trapdoor:pointG",
             "basic_render_parameters": {
-                "material": "particles_front",
+                "material": "particles_always",
                 "texture": "particles/point"
             }
         },

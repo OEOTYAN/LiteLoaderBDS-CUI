@@ -77,6 +77,9 @@
                 "DisableDepthWrite"
             ]
         },
+        "particles_always:particles_front": {
+            "depthFunc": "Always"
+        },
         "particles_effects:particles_alpha": {
             "+defines": [
                 "EFFECTS_OFFSET"
