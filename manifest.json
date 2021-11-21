@@ -2,11 +2,11 @@
     "format_version": 2,
     "header": {
         "description": "made by OEOTYAN",
-        "name": "Trapdoor CUI V1.5",
-        "uuid": "708d0b07-b685-478a-bdbf-222890b66203",
+        "name": "Trapdoor CUI V2.0",
+        "uuid": "e50e2a62-e3e6-48ad-9318-eaee86e5f116",
         "version": [
-            1,
-            5,
+            2,
+            0,
             0
         ],
         "min_engine_version": [
@@ -19,10 +19,10 @@
         {
             "description": "made by OEOTYAN",
             "type": "resources",
-            "uuid": "e069c907-51b9-41d6-a297-ce7496ea6199",
+            "uuid": "6a552ae7-ba61-4e5a-b3c5-30e445d8c616",
             "version": [
-                1,
-                5,
+                2,
+                0,
                 0
             ]
         }
