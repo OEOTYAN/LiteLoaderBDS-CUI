@@ -59,13 +59,6 @@
             "slopeScaledDepthBiasOGL": -1
         },
         "particles_front:particles_base": {
-            "+states": [
-                "Blending",
-                "DisableCulling"
-            ],
-            "blendSrc": "SourceAlpha",
-            "blendDst": "OneMinusSrcAlpha",
-            // z-fighting fix
             "depthBias": 0,
             "slopeScaledDepthBias": -1,
             "depthBiasOGL": 0.0,
