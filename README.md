@@ -1,6 +1,5 @@
-# Trapdoor-CUI
-![](https://img.shields.io/github/license/OEOTYAN/Trapdoor-CUI?style=for-the-badge)
-![](https://img.shields.io/github/downloads/OEOTYAN/Trapdoor-CUI/total?style=for-the-badge)
-![](https://img.shields.io/github/v/release/OEOTYAN/Trapdoor-CUI?style=for-the-badge)
+# LiteLoaderBDS-CUI
 
-CUI for [Trapdoor-mod](https://github.com/hhhxiao/TrapDoor)
+![ ](https://img.shields.io/github/license/OEOTYAN/LiteLoaderBDS-CUI?style=for-the-badge)
+![ ](https://img.shields.io/github/downloads/OEOTYAN/LiteLoaderBDS-CUI/total?style=for-the-badge)
+![ ](https://img.shields.io/github/v/release/OEOTYAN/LiteLoaderBDS-CUI?style=for-the-badge)
