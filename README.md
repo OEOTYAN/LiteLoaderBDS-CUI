@@ -7,39 +7,26 @@
 CUI for [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Color
 
-|                    HEX                     | Color                                                      | TYPE | ENUM     |
-| :----------------------------------------: | ---------------------------------------------------------- | :--: | -------- |
-| <span style="color:#000000">#000000</span> | <div style="padding:10px;background-color:#000000;"></div> |  B   | BLACK    |
-| <span style="color:#144a74">#144a74</span> | <div style="padding:10px;background-color:#144a74;"></div> |  I   | INDIGO   |
-| <span style="color:#8E65F3">#8E65F3</span> |                                                            |  L   | LAVENDER |
-| <span style="color:#07946e">#07946e</span> |                                                            |  T   | TEAL     |
-| <span style="color:#AB5236">#AB5236</span> |                                                            |  C   | COCOA    |
-| <span style="color:#56575F">#56575F</span> |                                                            |  D   | DARK     |
-| <span style="color:#A2A3A7">#A2A3A7</span> |                                                            |  O   | OATMEAL  |
-| <span style="color:#FFFFFF">#FFFFFF</span> |                                                            |  W   | WHITE    |
-| <span style="color:#FF3040">#FF3040</span> |                                                            |  R   | RED      |
-| <span style="color:#FF7300">#FF7300</span> |                                                            |  A   | APRICOT  |
-| <span style="color:#FFEC27">#FFEC27</span> |                                                            |  Y   | YELLOW   |
-| <span style="color:#10E436">#10E436</span> |                                                            |  G   | GREEN    |
-| <span style="color:#29ADFF">#29ADFF</span> |                                                            |  V   | VAT      |
-| <span style="color:#83769C">#83769C</span> |                                                            |  S   | SLATE    |
-| <span style="color:#FF77A8">#FF77A8</span> |                                                            |  P   | PINK     |
-| <span style="color:#FFCCAA">#FFCCAA</span> |                                                            |  E   | FAWN     |
+|                    HEX                     |                           Color                           | TYPE | ENUM     |
+| :----------------------------------------: | :-------------------------------------------------------: | :--: | -------- |
+| <span style="color:#000000">#000000</span> | ![](https://shields.io/badge/-000000?style=for-the-badge) |  B   | BLACK    |
+| <span style="color:#144a74">#144a74</span> | ![](https://shields.io/badge/-144a74?style=for-the-badge) |  I   | INDIGO   |
+| <span style="color:#8E65F3">#8E65F3</span> | ![](https://shields.io/badge/-8E65F3?style=for-the-badge) |  L   | LAVENDER |
+| <span style="color:#07946e">#07946e</span> | ![](https://shields.io/badge/-07946e?style=for-the-badge) |  T   | TEAL     |
+| <span style="color:#AB5236">#AB5236</span> | ![](https://shields.io/badge/-AB5236?style=for-the-badge) |  C   | COCOA    |
+| <span style="color:#56575F">#56575F</span> | ![](https://shields.io/badge/-56575F?style=for-the-badge) |  D   | DARK     |
+| <span style="color:#A2A3A7">#A2A3A7</span> | ![](https://shields.io/badge/-A2A3A7?style=for-the-badge) |  O   | OATMEAL  |
+| <span style="color:#FFFFFF">#FFFFFF</span> | ![](https://shields.io/badge/-FFFFFF?style=for-the-badge) |  W   | WHITE    |
+| <span style="color:#FF3040">#FF3040</span> | ![](https://shields.io/badge/-FF3040?style=for-the-badge) |  R   | RED      |
+| <span style="color:#FF7300">#FF7300</span> | ![](https://shields.io/badge/-FF7300?style=for-the-badge) |  A   | APRICOT  |
+| <span style="color:#FFEC27">#FFEC27</span> | ![](https://shields.io/badge/-FFEC27?style=for-the-badge) |  Y   | YELLOW   |
+| <span style="color:#10E436">#10E436</span> | ![](https://shields.io/badge/-10E436?style=for-the-badge) |  G   | GREEN    |
+| <span style="color:#29ADFF">#29ADFF</span> | ![](https://shields.io/badge/-29ADFF?style=for-the-badge) |  V   | VAT      |
+| <span style="color:#83769C">#83769C</span> | ![](https://shields.io/badge/-83769C?style=for-the-badge) |  S   | SLATE    |
+| <span style="color:#FF77A8">#FF77A8</span> | ![](https://shields.io/badge/-FF77A8?style=for-the-badge) |  P   | PINK     |
+| <span style="color:#FFCCAA">#FFCCAA</span> | ![](https://shields.io/badge/-FFCCAA?style=for-the-badge) |  E   | FAWN     |
 
 # Particle Types
 
