@@ -6,26 +6,40 @@
 
 CUI for [LiteLoaderBDS](https://github.com/LiteLDev/LiteLoaderBDS)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Color
 
-|                    HEX                     | TYPE  | ENUM     |
-| :----------------------------------------: | :---: | -------- |
-| <span style="color:#000000">#000000</span> |   B   | BLACK    |
-| <span style="color:#144a74">#144a74</span> |   I   | INDIGO   |
-| <span style="color:#8E65F3">#8E65F3</span> |   L   | LAVENDER |
-| <span style="color:#07946e">#07946e</span> |   T   | TEAL     |
-| <span style="color:#AB5236">#AB5236</span> |   C   | COCOA    |
-| <span style="color:#56575F">#56575F</span> |   D   | DARK     |
-| <span style="color:#A2A3A7">#A2A3A7</span> |   O   | OATMEAL  |
-| <span style="color:#FFFFFF">#FFFFFF</span> |   W   | WHITE    |
-| <span style="color:#FF3040">#FF3040</span> |   R   | RED      |
-| <span style="color:#FF7300">#FF7300</span> |   A   | APRICOT  |
-| <span style="color:#FFEC27">#FFEC27</span> |   Y   | YELLOW   |
-| <span style="color:#10E436">#10E436</span> |   G   | GREEN    |
-| <span style="color:#29ADFF">#29ADFF</span> |   V   | VAT      |
-| <span style="color:#83769C">#83769C</span> |   S   | SLATE    |
-| <span style="color:#FF77A8">#FF77A8</span> |   P   | PINK     |
-| <span style="color:#FFCCAA">#FFCCAA</span> |   E   | FAWN     |
+|                    HEX                     | Color                                                      | TYPE | ENUM     |
+| :----------------------------------------: | ---------------------------------------------------------- | :--: | -------- |
+| <span style="color:#000000">#000000</span> | <div style="padding:10px;background-color:#000000;"></div> |  B   | BLACK    |
+| <span style="color:#144a74">#144a74</span> | <div style="padding:10px;background-color:#144a74;"></div> |  I   | INDIGO   |
+| <span style="color:#8E65F3">#8E65F3</span> |                                                            |  L   | LAVENDER |
+| <span style="color:#07946e">#07946e</span> |                                                            |  T   | TEAL     |
+| <span style="color:#AB5236">#AB5236</span> |                                                            |  C   | COCOA    |
+| <span style="color:#56575F">#56575F</span> |                                                            |  D   | DARK     |
+| <span style="color:#A2A3A7">#A2A3A7</span> |                                                            |  O   | OATMEAL  |
+| <span style="color:#FFFFFF">#FFFFFF</span> |                                                            |  W   | WHITE    |
+| <span style="color:#FF3040">#FF3040</span> |                                                            |  R   | RED      |
+| <span style="color:#FF7300">#FF7300</span> |                                                            |  A   | APRICOT  |
+| <span style="color:#FFEC27">#FFEC27</span> |                                                            |  Y   | YELLOW   |
+| <span style="color:#10E436">#10E436</span> |                                                            |  G   | GREEN    |
+| <span style="color:#29ADFF">#29ADFF</span> |                                                            |  V   | VAT      |
+| <span style="color:#83769C">#83769C</span> |                                                            |  S   | SLATE    |
+| <span style="color:#FF77A8">#FF77A8</span> |                                                            |  P   | PINK     |
+| <span style="color:#FFCCAA">#FFCCAA</span> |                                                            |  E   | FAWN     |
 
 # Particle Types
 
