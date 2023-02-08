@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "particle_effect": {
         "description": {
-            "identifier": "trapdoor:chunkp",
+            "identifier": "ll:chunkp",
             "basic_render_parameters": {
                 "material": "particles_blend",
                 "texture": "particles/chunk"
