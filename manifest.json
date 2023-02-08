@@ -2,11 +2,11 @@
     "format_version": 2,
     "header": {
         "description": "made by OEOTYAN",
-        "name": "LiteLoaderBDS CUI V1.0",
+        "name": "LiteLoaderBDS CUI V1.1",
         "uuid": "d4d930e1-e587-494d-992a-e9504a7cd1b7",
         "version": [
             1,
-            0,
+            1,
             0
         ],
         "min_engine_version": [
@@ -22,7 +22,7 @@
             "uuid": "2ab18fa2-9b79-42f3-8a44-868d0ed44678",
             "version": [
                 1,
-                0,
+                1,
                 0
             ]
         }
